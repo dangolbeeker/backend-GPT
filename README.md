@@ -1,3 +1,30 @@
+# Let AI suggest and create your Backend 
+
+## Build Status Incomplete! 
+
+
+My brach of the backend-GPT repo. 
+
+Can't decide what backend logic to use? Let GPT decide! 
+
+
+
+-Scott Beeker `https://twitter.com/scott_beeker`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # GPT is all you need for the backend
 ![Galaxy brain meme (a) Writing a backend (b) hiring a backend engineer (c) Asking ChatGPT for a backend (d) The LLM is the backend](LLM-IS-BACKEND.jpeg)
 
